@@ -21,7 +21,7 @@ This project focuses on analyzing user engagement, experience, and satisfaction 
 - SQLAlchemy for database interaction
 
 - ## Dashboard
-![images](Screenshot_12-9-2024_125543_localhost.jpeg)
-![images](Screenshot_12-9-2024_125632_localhost.jpeg)
-![images](Screenshot_12-9-2024_125650_localhost.jpeg)
-![images](Screenshot_12-9-2024_125715_localhost.jpeg)
+![dashboard](my_streamlit_app/images/Screenshot_12-9-2024_125543_localhost.jpeg)
+![images](my_streamlit_app/images/Screenshot_12-9-2024_125632_localhost.jpeg)
+![images](my_streamlit_app/images/Screenshot_12-9-2024_125650_localhost.jpeg)
+![images](my_streamlit_app/images/Screenshot_12-9-2024_125715_localhost.jpeg)
